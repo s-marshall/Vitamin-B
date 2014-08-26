@@ -4,7 +4,7 @@ Vitamin-B
 
 Translation of [article] (http://www.aozora.gr.jp/cards/000957/files/43529_17211.html) by Umetaro Suzuki
 
-Source text | Translated text
+Original Japanese Text | English Translation
 ------------|----------------
 **ヴィタミン研究の回顧**|**A Recollection of Vitamin Research**
 鈴木梅太郎 | by Umetaro Suzuki
