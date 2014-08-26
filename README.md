@@ -77,5 +77,5 @@ Source text | Translated text
 校正：大野　晋|Japanese revisions: Susumu Ono
 2004年12月14日作成|Created: December 14, 2004
 青空文庫作成ファイル：|File created by Aozora Bunko
-このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。|This file was created by Aozora Bunko, the Internet library (http://www.aozora.gr.jp). This file was input, revised, and created by volunteers.
+このファイルは、インターネットの図書館、[青空文庫]（http://www.aozora.gr.jp）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。|This file was created by [Aozora Bunko, the Internet library] (http://www.aozora.gr.jp). This file was input, revised, and created by volunteers.
 
