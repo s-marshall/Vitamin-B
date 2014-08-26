@@ -1,6 +1,6 @@
 Vitamin-B
 =========
-![alt text](http://upload.wikimedia.org/wikipedia/commons/c/c8/Umetarosuzuki-pre1943.jpg/165px-Umetarosuzuki-pre1943.jpg "Umetaro Suzuki")
+![alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Umetarosuzuki-pre1943.jpg/331px-Umetarosuzuki-pre1943.jpg "Umetaro Suzuki")
 
 Translation of [article] (http://www.aozora.gr.jp/cards/000957/files/43529_17211.html) by Umetaro Suzuki
 
