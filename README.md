@@ -2,7 +2,7 @@ Vitamin-B
 =========
 ![alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Umetarosuzuki-pre1943.jpg/165px-Umetarosuzuki-pre1943.jpg "Umetaro Suzuki")
 
-Translation of [article] (http://www.aozora.gr.jp/cards/000957/files/43529_17211.html) by [Umetaro Suzuki](http://www.jpo.go.jp/seido_e/rekishi_e/umetaro_suzuki.htm)
+Translation of [ヴィタミン研究の回顧] (http://www.aozora.gr.jp/cards/000957/files/43529_17211.html) by [Umetaro Suzuki](http://www.jpo.go.jp/seido_e/rekishi_e/umetaro_suzuki.htm)
 
 Original Japanese Text | English Translation
 ------------|----------------
